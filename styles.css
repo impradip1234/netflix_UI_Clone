@@ -12,7 +12,7 @@ body{
 
 .main{
   position:relative;
-  height:80vh;
+  height:90vh;
   background:
     linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0.15)),
     linear-gradient(to bottom, rgba(0,0,0,0.75), rgba(0,0,0,0.15)),
@@ -56,16 +56,17 @@ nav img{
   font-weight:400;
   border-radius:8px;
   font-size:32px;
+  cursor:pointer;
 }
 
 .hero{
-  height:calc(80vh - 170px);
+  height:calc(90vh - 170px);
   display:flex;
   flex-direction:column;
   justify-content:center;
   align-items:center;
   text-align:center;
-  gap:60px;
+  gap:45px;
   max-width:1300px;
   margin:auto;
   padding:0 20px;
@@ -101,6 +102,7 @@ nav img{
   border:1px solid #666;
   color:rgb(255, 255, 255);
   border-radius:8px;
+  cursor:text;
 }
 
 .hero-input button{
@@ -113,4 +115,15 @@ nav img{
   border:none;
   font-weight:600;
   border-radius:8px;
+  cursor:pointer;
+}
+
+.first {
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: auto;
+    color: white;
+    justify-content: center;
+    align-items: center;
 }
