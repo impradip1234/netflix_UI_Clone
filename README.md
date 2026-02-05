@@ -12,3 +12,8 @@ This project is **not affiliated with, endorsed by, or connected to Netflix**.
 All trademarks and brand names belong to their respective owners.
 
 > This clone is intended only for educational and skill-practice purposes.
+
+⚠️ Disclaimer:
+This project is created only for educational and practice purposes.
+It is a UI clone and does not collect any user data.
+All rights belong to their respective owners.
