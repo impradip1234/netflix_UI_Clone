@@ -14,7 +14,7 @@ All trademarks and brand names belong to their respective owners.
 > This clone is intended only for educational and skill-practice purposes.
 
 ### Live Demo 
-link:*** https://impradip1234.github.io/netflix_UI_Clone/ ***
+***link:*** https://impradip1234.github.io/netflix_UI_Clone/
 
 ⚠️ Disclaimer:
 This project is created only for educational and practice purposes.
